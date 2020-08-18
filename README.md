@@ -28,4 +28,4 @@ The data set has the following attributes:
     
     Objective: Primarily to establish a decision rule using Decision Trees to classify the recurrence of Cancer based on the other 9 attributes. 
     Both Gini and Entropy methods are tried out. Several machine learning models such as Random Forest, Adaboost and Gradient Descent with Grid Search 
-    are worked out as an illustration.
+    are worked out as an illustration. Further, confusion matrix, ROC curve, accuracy and classification reports are generated.
